@@ -1,2 +1,3 @@
 # ncov-saudi-arabia
-Genomic epidemiology of SARS-CoV-2 in Saudi Arabia
+
+Nextstrain community build of SARS-CoV-2 focused on Saudi Arabia.
